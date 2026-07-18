@@ -4,11 +4,11 @@ Know Nepal is an open-source organization building software, APIs, and open data
 
 ## Focus Areas
 
-- Geography
-- Public Services
+- Geography & Maps
 - Tourism & Culture
-- Open Data
-- Developer Tools
+- Public Services & Education
+- Open Data & APIs
+- Developer Tools & Infrastructure
 
 ## Technology
 
