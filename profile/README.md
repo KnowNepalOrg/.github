@@ -45,14 +45,9 @@ The core Know Nepal development platform is currently maintained in a
 private repository. Development access and contributor coordination are
 handled through our community.
 
-## Founder
-
-**Nabin Oli** — Founder and Lead Developer
-
-Know Nepal is currently developed primarily as a solo-led project, with
-the goal of building useful open digital infrastructure for Nepal and
-growing the project through community collaboration.
-
 ---
+
+**Nabin Oli**  
+*Founder & Lead Developer*
 
 Building open digital infrastructure for Nepal.
